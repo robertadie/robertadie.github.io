@@ -1,6 +1,6 @@
 ---
 title: Robert Adie
-layout: page
+layout: home
 subtitle: New Pages are Cool
 #order: 0 #(orders links in the nav menu, e.g. 1)
 icon: fa-github #(optional; see Font Awesome for icon codes. Example: fa-github)
